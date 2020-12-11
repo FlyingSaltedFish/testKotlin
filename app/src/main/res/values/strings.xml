@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testKotlin</string>
+    <string name="textview">0</string>
+    <string name="addButton">+1</string>
+    <string name="minButton">-1</string>
+    <string name="ranbam">ranbam</string>
+    <string name="ranbamNumber">0</string>
+</resources>
