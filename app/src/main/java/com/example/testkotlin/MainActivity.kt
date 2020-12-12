@@ -25,6 +25,8 @@ val viewModel:MyViewModel by viewModels<MyViewModel>()
             viewModel.modifytNumber(1)
         }
 
+        //add test and add button
+
     }
 
 
